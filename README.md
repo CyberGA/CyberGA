@@ -39,6 +39,9 @@ I’m Gbenga Etomu, but it’s okay to call me CyberGA. I'm a software developer
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png" alt="solidity" width="40" height="40"/> </a>
 </p>
+  
+  
+ ![snake gif](https://github.com/CyberGA/CyberGA/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 CyberGA/CyberGA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
