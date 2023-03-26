@@ -1,8 +1,9 @@
 ### Hey you👋, welcome to my profile 😊
 
-I’m Gbenga Etomu, but it’s okay to call me CyberGA. I'm a software developer working as a frontend engineer since 2020 and blockchain software developer since 2022. With a laptop in my backpack, and a passion in my heart, I build solution that meet my clients' need with great standard and learn while exploring the world in this ephemeral life.
+I’m Gbenga Etomu, but it’s okay to call me CyberGA. I'm a software engineer working as a frontend engineer since 2020 and blockchain software developer since 2022. With a laptop in my backpack, and a passion in my heart, I build solution that meet my clients' need with great standard and learn while exploring the world in this ephemeral life.
 
-- 🛸 Fullstack Blockchain Software Developer at [Grandida LLC](https://grandida.com/)
+- 🛸 Fullstack Blockchain Software Developer
+- 🛸 Frontend Engineer
 - 🗣️ Fluent in English
 - 🔗 Learning "the code thing" 
 - ✔️ JAVASCRIPT/PYTHON/SMART CONTRACTS/DECENTRALIZED APP Certified 
