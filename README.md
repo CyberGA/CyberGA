@@ -6,7 +6,7 @@ I’m Gbenga Etomu, but it’s okay to call me CyberGA. I'm a software engineer 
 - 🛸 Frontend Engineer
 - 🗣️ Fluent in English
 - 🔗 Learning "the code thing" 
-- ✔️ JAVASCRIPT/PYTHON/SMART CONTRACTS/DECENTRALIZED APP Certified 
+- ✔️ JAVASCRIPT/PYTHON/SMART CONTRACTS/DECENTRALIZED APP CERTIFIED 
 
 ### Super cool facts about me
 - 🧬 I love innovations
