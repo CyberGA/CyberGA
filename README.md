@@ -11,7 +11,6 @@ I’m Gbenga Etomu, but it’s okay to call me CyberGA. I'm a software engineer 
 ### Super cool facts about me
 - 🧬 I love innovations
 - ⬆️ I love challenges
-- ⬆️ I'm a natural psychologist 😉
 - 💓 Nature tourist
 
 ### Interest in
