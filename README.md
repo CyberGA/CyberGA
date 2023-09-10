@@ -10,7 +10,7 @@ I’m Gbenga Etomu, but it’s okay to call me CyberGA. I'm a software engineer 
   <a href="https://www.linkedin.com/in/gbenga-etomu-65218b112/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:etomu.joshua@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/etomu_joshua"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<!--   <a href = "#"><img src="https://img.shields.io/badge/Portfolio-%2338B2AC?style=for-the-badge&logo=hardhat&logoColor=%164C78" target="_blank"></a> -->
+  <a href = "#"><img src="https://img.shields.io/badge/Portfolio-%2338B2AC?style=for-the-badge&logo=hardhat&logoColor=%164C78" target="_blank"></a>
  </div>
 
 | <a href="https://github.com/CyberGA"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CyberGA&theme=radical&hide=stars&show_icons=true&hide_border=true" alt="CyberGA's GitHub stats" /></a> | <a href="https://github.com/CyberGA"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberGA&layout=compact&theme=radical&hide_border=true" /></a> |
