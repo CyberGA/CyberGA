@@ -1,8 +1,9 @@
 ### Hi👋, welcome to my profile 😊
 
-I’m Gbenga Etomu, but it’s okay to call me CyberGA. I'm a software engineer working as a frontend engineer and blockchain software developer.
+I’m Gbenga Etomu, but it’s okay to call me CyberGA. I'm a software engineer working as a frontend engineer, flutter engineer and blockchain software developer.
 - 🛸 Blockchain Software Developer (Dapps)
 - 🛸 Frontend Engineer
+- 🛸 Flutter Developer (Mobile Applications)
 - 🗣️ Fluent in English
 <!-- - ✔️ JAVASCRIPT/PYTHON/SMART CONTRACTS/DECENTRALIZED APP CERTIFIED  -->
 
